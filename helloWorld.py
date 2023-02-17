@@ -1,6 +1,8 @@
 ### Comments go here
 
-print("Git Awesomw")
+print("Git Awesome")
+
+print("Does this add automatically?")
 
 
 
